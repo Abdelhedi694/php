@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(64, 64, 168);
+}
+
+.card {
+  background-color: rgb(71, 71, 180);
+  margin: 0;
+}
+
+.card img {
+  height: 170px;
+}
+
+.card .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card .card-body .btn {
+  width: 100px;
+}
